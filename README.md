@@ -1,7 +1,14 @@
-# Magisk Module Template
+# Systemlessly Font with Tsukushimarugo-A(CJK) & sleek #
+* [Tesing Device]	Asus Zenfone Max Plus M1(X00TD)/Oreo .
+* [Systemlessly]	Replaces font with 筑紫A丸(Tsukushimarugo-A) & sleek.
 
-**Update `README.md` if you want to submit your module to the online repo!** This `README.md` will be shown in a Webview dialog when a user taps your module in Magisk Manager, so make sure to place some information / changelog / notes here.
+## Screenshot ##
+https://imgur.com/C6YZxAg
 
-If you are not familiar with the Markdown syntax, you can start by experimenting on GitHub's online Markdown editor, which will let you preview before publishing. If you need more help, the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) will be handy.
+## Recent Change ##
 
-For more information about modules and repos, please check the [official documentation](https://github.com/topjohnwu/Magisk/blob/master/docs/modules.md)
+#### V1.1
+- Migrate from original repository and update to Magisk Module Template 17000
+
+## Contact ##
+iceobelisk@hotmail.com

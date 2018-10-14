@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=iceobelisk_tsukushimarugoasleek
+name=Tsukushimarugo-A-CJK-Sleek
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=iceobelisk
+description=[Test on Asus Zenfone Max Pro M1(X00TD)/Oreo]Systemlessly replaces font with Tsukushimarugo-A(CJK) & sleek.
 minMagisk=17000
