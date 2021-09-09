@@ -1,7 +1,7 @@
 id=iceobelisk_tsukushimarugoasleek
 name=Tsukushimarugo-A-CJK-Sleek
-version=v1.1
+version=v1.2
 versionCode=1
-author=iceobelisk
-description=[Test on Asus Zenfone Max Pro M1(X00TD)/Oreo]Systemlessly replaces font with Tsukushimarugo-A(CJK) & sleek.
-minMagisk=17000
+author=Palatis
+description=[Test on OnePlus 9 Pro (Lineage OS 18.1)] Systemlessly replaces font with Tsukushimarugo-A(CJK) & sleek.
+minMagisk=20400
